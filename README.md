@@ -1,0 +1,2 @@
+# MatrixResultCSharp
+Решение матрицы C#
